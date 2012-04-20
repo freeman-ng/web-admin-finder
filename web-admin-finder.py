@@ -21,7 +21,7 @@ import datetime
 #-------------------------------------------------------------------------------------
 print "\n****************************************************************************"
 print "Web Admin Finder"
-print "Written by: Sro [http://sroblog.tk]"
+print "Written by: Sro [http://sro.co.il]"
 print "Established on code of Guy Mizrahi's [http://guym.co.il/admin-panel-finder/]"
 print "Date: 09 april 2010"
 print "Version: 1.0"
